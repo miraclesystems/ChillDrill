@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{EB19EC46-9A6C-4BD5-8526-904A461E7DC6}|Default">
+  <MonoDevelop.Ide.ItemProperties.ChillDrill.iOS automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget" />
+  <MonoDevelop.Ide.ItemProperties.ChillDrill.Android PreferredExecutionTarget="Android.pixel_2_pie_9_0_-_api_28" />
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="ChillDrill/MainPage.xaml.cs" Line="68" Column="1" />
+      <File FileName="ChillDrill.Android/Properties/AndroidManifest.xml" />
+      <File FileName="ChillDrill.iOS/IFireBaseInterface.cs" Line="30" Column="1" />
+      <File FileName="ChillDrill.iOS/AppDelegate.cs" Line="30" Column="1" />
+      <File FileName="ChillDrill.iOS/Info.plist" />
+      <File FileName="ChillDrill.iOS/GoogleService-Info.plist" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ChillDrillApp" expanded="True">
+            <Node name="ChillDrill" expanded="True">
+              <Node name="App.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+            <Node name="ChillDrill.iOS" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|iPhone" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

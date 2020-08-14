@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "373888220169",
+    "firebase_url": "https://chill-drills-bb47b.firebaseio.com",
+    "project_id": "chill-drills-bb47b",
+    "storage_bucket": "chill-drills-bb47b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373888220169:android:bb0d344612c5c1c6994cd8",
+        "android_client_info": {
+          "package_name": "com.miraclesytems.onesource"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "373888220169-pfgv6pjr4legm5n2dsjk0ugsu6abeqa1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGI_Abb2XNALlF6qxF9035QjzqVJnE-EE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "373888220169-pfgv6pjr4legm5n2dsjk0ugsu6abeqa1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "373888220169-ehrbvcafob3a97hftnbkb14ne50bi2df.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ChillDrill.ChillDrillMODESApp",
+                "app_store_id": "1525764793"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

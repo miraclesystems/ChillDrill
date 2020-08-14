@@ -1,0 +1,2 @@
+int style Theme_AppInvite_Preview 0x1
+int style Theme_AppInvite_Preview_Base 0x1

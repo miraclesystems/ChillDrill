@@ -1,0 +1,14 @@
+C:\Military\Military\bin\Release\netstandard2.0\Military.deps.json
+C:\Military\Military\bin\Release\netstandard2.0\Military.dll
+C:\Military\Military\bin\Release\netstandard2.0\ref\Military.dll
+C:\Military\Military\bin\Release\netstandard2.0\Military.pdb
+C:\Military\Military\obj\Release\netstandard2.0\App.xaml.g.cs
+C:\Military\Military\obj\Release\netstandard2.0\MainPage.xaml.g.cs
+C:\Military\Military\obj\Release\netstandard2.0\Military.AssemblyInfoInputs.cache
+C:\Military\Military\obj\Release\netstandard2.0\Military.AssemblyInfo.cs
+C:\Military\Military\obj\Release\netstandard2.0\Military.csproj.CoreCompileInputs.cache
+C:\Military\Military\obj\Release\netstandard2.0\XamlC.stamp
+C:\Military\Military\obj\Release\netstandard2.0\Military.dll
+C:\Military\Military\obj\Release\netstandard2.0\ref\Military.dll
+C:\Military\Military\obj\Release\netstandard2.0\Military.pdb
+C:\Military\Military\obj\Release\netstandard2.0\Military.csprojAssemblyReference.cache

@@ -1,0 +1,83 @@
+Function=SystemNative_ConvertErrorPlatformToPal
+	/Users/miraclesystems2003/Desktop/ChillDrill/ChillDrill.iOS/obj/iPhone/Debug/device-builds/iphone12.3-13.5.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_ConvertErrorPalToPlatform
+	/Users/miraclesystems2003/Desktop/ChillDrill/ChillDrill.iOS/obj/iPhone/Debug/device-builds/iphone12.3-13.5.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_StrErrorR
+	/Users/miraclesystems2003/Desktop/ChillDrill/ChillDrill.iOS/obj/iPhone/Debug/device-builds/iphone12.3-13.5.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_GetNonCryptographicallySecureRandomBytes
+	/Users/miraclesystems2003/Desktop/ChillDrill/ChillDrill.iOS/obj/iPhone/Debug/device-builds/iphone12.3-13.5.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_OpenDir
+	/Users/miraclesystems2003/Desktop/ChillDrill/ChillDrill.iOS/obj/iPhone/Debug/device-builds/iphone12.3-13.5.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_GetReadDirRBufferSize
+	/Users/miraclesystems2003/Desktop/ChillDrill/ChillDrill.iOS/obj/iPhone/Debug/device-builds/iphone12.3-13.5.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_ReadDirR
+	/Users/miraclesystems2003/Desktop/ChillDrill/ChillDrill.iOS/obj/iPhone/Debug/device-builds/iphone12.3-13.5.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_CloseDir
+	/Users/miraclesystems2003/Desktop/ChillDrill/ChillDrill.iOS/obj/iPhone/Debug/device-builds/iphone12.3-13.5.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_ReadLink
+	/Users/miraclesystems2003/Desktop/ChillDrill/ChillDrill.iOS/obj/iPhone/Debug/device-builds/iphone12.3-13.5.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Stat2
+	/Users/miraclesystems2003/Desktop/ChillDrill/ChillDrill.iOS/obj/iPhone/Debug/device-builds/iphone12.3-13.5.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_LStat2
+	/Users/miraclesystems2003/Desktop/ChillDrill/ChillDrill.iOS/obj/iPhone/Debug/device-builds/iphone12.3-13.5.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Symlink
+	/Users/miraclesystems2003/Desktop/ChillDrill/ChillDrill.iOS/obj/iPhone/Debug/device-builds/iphone12.3-13.5.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_CopyFile
+	/Users/miraclesystems2003/Desktop/ChillDrill/ChillDrill.iOS/obj/iPhone/Debug/device-builds/iphone12.3-13.5.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_GetEGid
+	/Users/miraclesystems2003/Desktop/ChillDrill/ChillDrill.iOS/obj/iPhone/Debug/device-builds/iphone12.3-13.5.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_GetEUid
+	/Users/miraclesystems2003/Desktop/ChillDrill/ChillDrill.iOS/obj/iPhone/Debug/device-builds/iphone12.3-13.5.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Link
+	/Users/miraclesystems2003/Desktop/ChillDrill/ChillDrill.iOS/obj/iPhone/Debug/device-builds/iphone12.3-13.5.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_MkDir
+	/Users/miraclesystems2003/Desktop/ChillDrill/ChillDrill.iOS/obj/iPhone/Debug/device-builds/iphone12.3-13.5.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Rename
+	/Users/miraclesystems2003/Desktop/ChillDrill/ChillDrill.iOS/obj/iPhone/Debug/device-builds/iphone12.3-13.5.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Unlink
+	/Users/miraclesystems2003/Desktop/ChillDrill/ChillDrill.iOS/obj/iPhone/Debug/device-builds/iphone12.3-13.5.1/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_timezone_get_local_name
+	/Users/miraclesystems2003/Desktop/ChillDrill/ChillDrill.iOS/obj/iPhone/Debug/device-builds/iphone12.3-13.5.1/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_timezone_get_data
+	/Users/miraclesystems2003/Desktop/ChillDrill/ChillDrill.iOS/obj/iPhone/Debug/device-builds/iphone12.3-13.5.1/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_GetFolderPath
+	/Users/miraclesystems2003/Desktop/ChillDrill/ChillDrill.iOS/obj/iPhone/Debug/device-builds/iphone12.3-13.5.1/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_log
+	/Users/miraclesystems2003/Desktop/ChillDrill/ChillDrill.iOS/obj/iPhone/Debug/device-builds/iphone12.3-13.5.1/mtouch-cache/1-Link/mscorlib.dll
+Function=NetSecurityNative_ReleaseGssBuffer
+	/Users/miraclesystems2003/Desktop/ChillDrill/ChillDrill.iOS/obj/iPhone/Debug/device-builds/iphone12.3-13.5.1/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_DisplayMinorStatus
+	/Users/miraclesystems2003/Desktop/ChillDrill/ChillDrill.iOS/obj/iPhone/Debug/device-builds/iphone12.3-13.5.1/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_DisplayMajorStatus
+	/Users/miraclesystems2003/Desktop/ChillDrill/ChillDrill.iOS/obj/iPhone/Debug/device-builds/iphone12.3-13.5.1/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_ImportUserName
+	/Users/miraclesystems2003/Desktop/ChillDrill/ChillDrill.iOS/obj/iPhone/Debug/device-builds/iphone12.3-13.5.1/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_ImportPrincipalName
+	/Users/miraclesystems2003/Desktop/ChillDrill/ChillDrill.iOS/obj/iPhone/Debug/device-builds/iphone12.3-13.5.1/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_ReleaseName
+	/Users/miraclesystems2003/Desktop/ChillDrill/ChillDrill.iOS/obj/iPhone/Debug/device-builds/iphone12.3-13.5.1/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_InitiateCredSpNego
+	/Users/miraclesystems2003/Desktop/ChillDrill/ChillDrill.iOS/obj/iPhone/Debug/device-builds/iphone12.3-13.5.1/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_InitiateCredWithPassword
+	/Users/miraclesystems2003/Desktop/ChillDrill/ChillDrill.iOS/obj/iPhone/Debug/device-builds/iphone12.3-13.5.1/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_ReleaseCred
+	/Users/miraclesystems2003/Desktop/ChillDrill/ChillDrill.iOS/obj/iPhone/Debug/device-builds/iphone12.3-13.5.1/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_InitSecContext
+	/Users/miraclesystems2003/Desktop/ChillDrill/ChillDrill.iOS/obj/iPhone/Debug/device-builds/iphone12.3-13.5.1/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_DeleteSecContext
+	/Users/miraclesystems2003/Desktop/ChillDrill/ChillDrill.iOS/obj/iPhone/Debug/device-builds/iphone12.3-13.5.1/mtouch-cache/1-Link/System.dll
+Function=xamarin_start_wwan
+	/Users/miraclesystems2003/Desktop/ChillDrill/ChillDrill.iOS/obj/iPhone/Debug/device-builds/iphone12.3-13.5.1/mtouch-cache/1-Link/System.dll
+Function=xamarin_find_protocol_wrapper_type
+	/Users/miraclesystems2003/Desktop/ChillDrill/ChillDrill.iOS/obj/iPhone/Debug/device-builds/iphone12.3-13.5.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_release_block_on_main_thread
+	/Users/miraclesystems2003/Desktop/ChillDrill/ChillDrill.iOS/obj/iPhone/Debug/device-builds/iphone12.3-13.5.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_get_block_descriptor
+	/Users/miraclesystems2003/Desktop/ChillDrill/ChillDrill.iOS/obj/iPhone/Debug/device-builds/iphone12.3-13.5.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr
+	/Users/miraclesystems2003/Desktop/ChillDrill/ChillDrill.iOS/obj/iPhone/Debug/device-builds/iphone12.3-13.5.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr
+	/Users/miraclesystems2003/Desktop/ChillDrill/ChillDrill.iOS/obj/iPhone/Debug/device-builds/iphone12.3-13.5.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=UIApplicationMain
+	/Users/miraclesystems2003/Desktop/ChillDrill/ChillDrill.iOS/obj/iPhone/Debug/device-builds/iphone12.3-13.5.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=mono_pmip

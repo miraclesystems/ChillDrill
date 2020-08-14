@@ -1,0 +1,263 @@
+﻿<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Site</title>
+    <base href="./">
+    <link rel="icon" type="image/x-icon" href="favicon.ico">
+
+    <!-- Plugins CSS -->
+    <link href="css/plugins.css" rel="stylesheet">
+    <!-- Custom CSS -->
+    <link href="css/style.css" rel="stylesheet">
+
+    <!--jquery js -->
+    <script src="js/jquery-min.js"></script>
+    <script src="js/popper.min.js"></script>
+    <!--jquery js -->
+    <script src="js/bootstrap.min.js"></script>
+    <!--jquery js -->
+    <script src="js/plugins.js"></script>
+    <!--mCustomScrollbar js -->
+    <script src="js/jquery.mCustomScrollbar.concat.min.js"></script>
+    <!--Fontawesome js -->
+    <script src="js/fontawesome.js"></script>
+    <!--Dcjqaccordion js -->
+    <script src="js/jquery.dcjqaccordion.js"></script>
+    <!--Charts js -->
+    <script src="js/apexcharts.min.js"></script>
+    <!--Custom Dashboard js -->
+    <script src="js/custom-dashboard.js"></script>
+    <!--jquery js -->
+    <script src="js/custom.js"></script>
+
+    <script type="text/javascript" src="js/soundmanager2.js"></script>
+    <script src="js/bar-ui.js"></script>
+    <link rel="stylesheet" href="css/bar-ui.css" />
+
+    <script>
+        $(document).ready(function () {
+            $("#btnBack").click(function () {
+                location.href = "index.html";
+            });
+
+            $('.dv').click(function () {
+                document.getElementById("hm").click()
+            });
+
+            $('.ply').click(function () {
+                $('#scroll').show();
+            });
+
+        });
+    </script>
+</head>
+
+<body>
+    <!-- Pre Loader -->
+    <div id="dvLoading"></div>
+    <div class="wrapper">
+        <!-- header -->
+        <div class="header-bg dv">
+            <header class="main-header">
+                <div class="container_header phone_view border_top_bott">
+                    <div class="row">
+                        <div class="col-md-12 d-flex justify-content-between align-items-center">
+
+                            <div class="logo d-flex align-items-center justify-content-left">
+                                <a href="javascript:void(0)">
+                                    <strong class="logo_icon" style="padding-left: 15px;">
+                                        <img src="images/small-logo.png" alt="chill drill">
+                                    </strong> <span class="logo-default">
+                                        <img src="images/small-logo.png" alt="chill drill">
+                                    </span>
+                                </a>
+                            </div>
+                            <div class="right_detail">
+                                <div class="row d-flex align-items-center justify-content-end">
+                                    <div class="col-xl-12 col-12 d-flex justify-content-end">
+                                        <div class="right_bar_top d-flex align-items-center">
+                                            <div class="menu-icon"> <a href="javascript:void(0)" id="hm" class="menu-toggler sidebar-toggler dv"></a> </div>
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </header>
+        </div>
+        <!-- header_End -->
+        <!-- Content_right -->
+        <div class="container_full">
+            <div class="side_bar scroll_auto">
+                <ul id="dc_accordion" class="sidebar-menu tree">
+                    <li> <a href="index.html" class=" active"> <i class="ti-home"></i> <span>Home</span></a> </li>
+                    <li> <a href="about.html"> <i class="ti-pencil-alt"></i> <span>About</span></a> </li>
+                    <li> <a href="https://public.militaryonesource.mil/chill-drills-feedback" target="_blank"> <i class="ti-pencil-alt"></i> <span>Feedback/Support</span></a> </li>
+                    <li class="menu_sub">
+                        <a href="overview.html"> <i class="icon-equalizer"></i> <span>Chill Drills </span> </a>
+                        <ul class="down_menu">
+                            <li><a href="overview.html">Overview</a></li>
+                            <li><a href="tunningin.html">Tuning In</a></li>
+                            <li><a href="releasing-stress.html">Releasing Stress</a></li>
+                            <li><a href="easing-back-pain.html">Easing Back Pain</a></li>
+                            <li><a href="getting-to-sleep.html">Getting to Sleep</a></li>
+                            <li><a href="music-to-chill-by.html">Music to Chill By</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+            <div class="content_wrapper bg_homebefore">
+                <div class="container-fluid">
+                    <div class="sec-title">
+                        <div class="row d-flex align-items-center">
+                            <div class="col-md-12">
+                                <div class="heading_home">
+                                    <h5>Chill Drills 1</h5>
+                                    <h1>Tuning In</h1>
+                                    <br />
+                                    <div class="sm2-bar-ui compact full-width">
+
+                                        <div class="bd sm2-main-controls">
+
+                                            <div class="sm2-inline-texture"></div>
+                                            <div class="sm2-inline-gradient"></div>
+
+                                            <div class="sm2-inline-element sm2-button-element">
+                                                <div class="sm2-button-bd">
+                                                    <a href="#play" class="sm2-inline-button sm2-icon-play-pause ply">Play / pause</a>
+                                                </div>
+                                            </div>
+
+                                            <div class="sm2-inline-element sm2-inline-status">
+
+                                                <div class="sm2-playlist">
+                                                    <div class="sm2-playlist-target">
+                                                        <!-- playlist <ul> + <li> markup will be injected here -->
+                                                        <!-- if you want default / non-JS content, you can put that here. -->
+                                                        <noscript><p>JavaScript is required.</p></noscript>
+                                                    </div>
+                                                </div>
+
+                                                <div class="sm2-progress">
+                                                    <div class="sm2-row">
+                                                        <div class="sm2-inline-time">0:00</div>
+                                                        <div class="sm2-progress-bd">
+                                                            <div class="sm2-progress-track">
+                                                                <div class="sm2-progress-bar"></div>
+                                                                <div class="sm2-progress-ball"><div class="icon-overlay"></div></div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="sm2-inline-duration">0:00</div>
+                                                    </div>
+                                                </div>
+
+                                            </div>
+
+                                            <div class="sm2-inline-element sm2-button-element sm2-volume">
+                                                <div class="sm2-button-bd">
+                                                    <span class="sm2-inline-button sm2-volume-control volume-shade"></span>
+                                                    <a href="#volume" class="sm2-inline-button sm2-volume-control">volume</a>
+                                                </div>
+                                            </div>
+
+                                        </div>
+
+                                        <div class="bd sm2-playlist-drawer sm2-element">
+
+                                            <div class="sm2-inline-texture">
+                                                <div class="sm2-box-shadow"></div>
+                                            </div>
+
+                                            <!-- playlist content is mirrored here -->
+
+                                            <div class="sm2-playlist-wrapper">
+                                                <ul class="sm2-playlist-bd">
+                                                    <li>
+                                                        <a href="audio/2-Chill-Drill.mp3">
+                                                            Tuning In
+                                                        </a>
+                                                    </li>
+                                                </ul>
+                                            </div>
+
+                                        </div>
+
+                                    </div>
+                                    <br />
+                                    <br />
+                                    <h3>Description</h3>
+                                    <p>
+                                        The first drill is a progressive muscle relaxation exercise to help reverse the symptoms of stress. This drill provides exercises that help you become focused, calm, alert, relaxed and ready.
+                                    </p>
+                                    <p style="font-size: 11px;">Heidi J. Bauer, MSW, LCSW 20268</p>                                   
+                                    <div id="scroll" style="display: none; background: #ebedf2;">
+                                        <h5>Transcript of Audio Presentation by Heidi J. Bauer, MSW, LCSW</h5>
+                                        <p>
+                                            Sit comfortably with your feet on the floor, or if you are lying down, place a pillow under your neck.
+                                            Close your eyes and take three long deep breaths. Notice the muscles relax in your body asyou let yourself unwind. Focus on my words and your breathing. Pause and pay attention
+                                            to yourself. Take three more long deep breaths.
+                                        </p>
+                                        <p>
+                                            Now squeeze your eyes tightly closed. Keep them closed as I count to three. One, two, three. Good. Now let your eyes relax. Keep them
+                                            gently closed as you let all of the sounds fade. Breathing slowly, fading out the sounds, feeling more relaxed. Squeeze your eyes closed once more. Squeeze hard.
+                                            And bite down and clench your teeth together. Feel your face muscles tighten. With your eyes closed and teeth clenched, hold it while I count to three. One, two, three. Good.
+                                        </p>
+                                        <p>
+                                            Now relax your face muscles. As your face muscles relax, feel the relaxation spread throughout your body. Take a deep breath as I count to three. One, two, three. Now tense your shoulder
+                                            andneck muscles by pulling your shoulders up to your ears. Hold that tension while I count to three.One, two, three. Good. Relax your neck, shoulders, arms, and back. And
+                                            feel the relaxation spread throughout your body.
+                                        </p>
+                                        <p>
+                                            Now make a fist with your right hand. Squeeze your fist as tightly as you can. Hold it tightly as Icount to three. One, two, three. Good. You can relax your right hand.
+                                            Make a fist with your left hand. Squeeze your fist as tightly as you can. Hold it while I count to three. One, two, three. Relax your left hand. Both hands are relaxed.
+                                            Feel the tingling in your fingers while keeping them still. You may feel your hands warming. Pause and pay attention to your relaxed and heavy hands. While relaxing your entire body,
+                                            say the words to yourself, “Calm and relaxed.” “Calmand relaxed.” Pause and pay attention to this sensation of relaxation. Later, as you are preparing yourself for sleep, think back
+                                            to this moment, and it will help you rest.
+                                        </p><p>
+                                            Keeping your body still and relaxed, tense your stomach muscles. Hold that tension in your stomach while I count to three. One, two, three.
+                                            Good. Now, relax your stomach muscles. Feel your entire upper body relaxing. Eyes relaxed. Face muscles relaxed. Jaw and tongue relaxed. Neck and shoulders relaxed. Arms relaxed.
+                                            Hands relaxed. Stomach and chest relaxed.
+                                        </p><p>
+                                            Now flex your right foot, so it is pointed upward. Keep your foot flexed. And pull hard so you feel the tension in your right leg, ankle,
+                                            and foot. Hold that tension while I count to three. One,two, three. Good. Now, relax your right foot, leg, and toes. While keeping your right leg and toes relaxed, flex your left
+                                            foot so your foot is pointed upward. Feel the tension in your left leg, ankle, and foot. Hold that tension while I count to three. One, two, three. Good. Let all the tension
+                                            drain from both ankles and legs. Let all your muscles go limp. Keep your body still and say toyourself, “Calm and relaxed.” “Calm and relaxed.” Listen to the music as you drift.
+                                        </p>
+                                        <p>
+                                            Now flex both of your ankles and scrunch up your toes. Keep them as tight as possible. Hold that tension while I count to three. One, two, three. Good.
+                                            Now relax your toes, feet, ankles, and legs.Pause and pay attention as your entire body may feel heavy and relaxed. Tell yourself you are as prepared as you can be.
+                                            You make good decisions. People are proud of you. You are making a difference. Let go of any tension and keep your body completely relaxed. Pause, and pay attention to your breathing.
+                                            And continue to pause and pay attention. Continue to keep your bodystill. Pause and pay attention to the sensations in your body. Continue to breathe deeply. Good.
+                                            Soon, when you open your eyes, you will be focused, calm, alert, relaxed, and ready. Remain inyour current position for a few moments.
+                                            Take three deep breaths. You can now open your eyesand come back. You are aware of your surroundings.
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="content-bar">
+
+
+                        <!-- End row -->
+                        <!-- Start row -->
+                        <div class="footerbar footer">
+                            <span style='font-size:20px;color: #194867;float:left;font-weight:500;' id="btnBack">&#8592; All Chill Drills</span>
+                        </div>
+                        <!-- End row -->
+                    </div>
+                    <!-- End Rightbar -->
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+
+</body>
+</html>

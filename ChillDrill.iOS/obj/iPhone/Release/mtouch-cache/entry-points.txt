@@ -1,0 +1,98 @@
+Function=SystemNative_ConvertErrorPlatformToPal
+	/Users/yada/Documents/dev/ChillDrill/ChillDrill.iOS/obj/iPhone/Release/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_ConvertErrorPalToPlatform
+	/Users/yada/Documents/dev/ChillDrill/ChillDrill.iOS/obj/iPhone/Release/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_StrErrorR
+	/Users/yada/Documents/dev/ChillDrill/ChillDrill.iOS/obj/iPhone/Release/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_GetNonCryptographicallySecureRandomBytes
+	/Users/yada/Documents/dev/ChillDrill/ChillDrill.iOS/obj/iPhone/Release/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_OpenDir
+	/Users/yada/Documents/dev/ChillDrill/ChillDrill.iOS/obj/iPhone/Release/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_GetReadDirRBufferSize
+	/Users/yada/Documents/dev/ChillDrill/ChillDrill.iOS/obj/iPhone/Release/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_ReadDirR
+	/Users/yada/Documents/dev/ChillDrill/ChillDrill.iOS/obj/iPhone/Release/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_CloseDir
+	/Users/yada/Documents/dev/ChillDrill/ChillDrill.iOS/obj/iPhone/Release/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_ReadLink
+	/Users/yada/Documents/dev/ChillDrill/ChillDrill.iOS/obj/iPhone/Release/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Stat2
+	/Users/yada/Documents/dev/ChillDrill/ChillDrill.iOS/obj/iPhone/Release/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_LStat2
+	/Users/yada/Documents/dev/ChillDrill/ChillDrill.iOS/obj/iPhone/Release/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Symlink
+	/Users/yada/Documents/dev/ChillDrill/ChillDrill.iOS/obj/iPhone/Release/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_CopyFile
+	/Users/yada/Documents/dev/ChillDrill/ChillDrill.iOS/obj/iPhone/Release/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_GetEGid
+	/Users/yada/Documents/dev/ChillDrill/ChillDrill.iOS/obj/iPhone/Release/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_GetEUid
+	/Users/yada/Documents/dev/ChillDrill/ChillDrill.iOS/obj/iPhone/Release/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Link
+	/Users/yada/Documents/dev/ChillDrill/ChillDrill.iOS/obj/iPhone/Release/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_MkDir
+	/Users/yada/Documents/dev/ChillDrill/ChillDrill.iOS/obj/iPhone/Release/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Rename
+	/Users/yada/Documents/dev/ChillDrill/ChillDrill.iOS/obj/iPhone/Release/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Unlink
+	/Users/yada/Documents/dev/ChillDrill/ChillDrill.iOS/obj/iPhone/Release/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_timezone_get_local_name
+	/Users/yada/Documents/dev/ChillDrill/ChillDrill.iOS/obj/iPhone/Release/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_timezone_get_data
+	/Users/yada/Documents/dev/ChillDrill/ChillDrill.iOS/obj/iPhone/Release/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_GetFolderPath
+	/Users/yada/Documents/dev/ChillDrill/ChillDrill.iOS/obj/iPhone/Release/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_log
+	/Users/yada/Documents/dev/ChillDrill/ChillDrill.iOS/obj/iPhone/Release/mtouch-cache/1-Link/mscorlib.dll
+Function=NetSecurityNative_ReleaseGssBuffer
+	/Users/yada/Documents/dev/ChillDrill/ChillDrill.iOS/obj/iPhone/Release/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_DisplayMinorStatus
+	/Users/yada/Documents/dev/ChillDrill/ChillDrill.iOS/obj/iPhone/Release/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_DisplayMajorStatus
+	/Users/yada/Documents/dev/ChillDrill/ChillDrill.iOS/obj/iPhone/Release/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_ImportUserName
+	/Users/yada/Documents/dev/ChillDrill/ChillDrill.iOS/obj/iPhone/Release/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_ImportPrincipalName
+	/Users/yada/Documents/dev/ChillDrill/ChillDrill.iOS/obj/iPhone/Release/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_ReleaseName
+	/Users/yada/Documents/dev/ChillDrill/ChillDrill.iOS/obj/iPhone/Release/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_InitiateCredSpNego
+	/Users/yada/Documents/dev/ChillDrill/ChillDrill.iOS/obj/iPhone/Release/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_InitiateCredWithPassword
+	/Users/yada/Documents/dev/ChillDrill/ChillDrill.iOS/obj/iPhone/Release/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_ReleaseCred
+	/Users/yada/Documents/dev/ChillDrill/ChillDrill.iOS/obj/iPhone/Release/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_InitSecContext
+	/Users/yada/Documents/dev/ChillDrill/ChillDrill.iOS/obj/iPhone/Release/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_DeleteSecContext
+	/Users/yada/Documents/dev/ChillDrill/ChillDrill.iOS/obj/iPhone/Release/mtouch-cache/1-Link/System.dll
+Function=xamarin_start_wwan
+	/Users/yada/Documents/dev/ChillDrill/ChillDrill.iOS/obj/iPhone/Release/mtouch-cache/1-Link/System.dll
+Function=xamarin_find_protocol_wrapper_type
+	/Users/yada/Documents/dev/ChillDrill/ChillDrill.iOS/obj/iPhone/Release/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_release_block_on_main_thread
+	/Users/yada/Documents/dev/ChillDrill/ChillDrill.iOS/obj/iPhone/Release/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_get_block_descriptor
+	/Users/yada/Documents/dev/ChillDrill/ChillDrill.iOS/obj/iPhone/Release/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr
+	/Users/yada/Documents/dev/ChillDrill/ChillDrill.iOS/obj/iPhone/Release/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr
+	/Users/yada/Documents/dev/ChillDrill/ChillDrill.iOS/obj/iPhone/Release/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=UIApplicationMain
+	/Users/yada/Documents/dev/ChillDrill/ChillDrill.iOS/obj/iPhone/Release/mtouch-cache/1-Link/Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_FIRApp
+	/Users/yada/Documents/dev/ChillDrill/ChillDrill.iOS/obj/iPhone/Release/mtouch-cache/1-Link/Firebase.Core.dll
+ObjectiveCClass=OBJC_CLASS_$_FIRConfiguration
+	/Users/yada/Documents/dev/ChillDrill/ChillDrill.iOS/obj/iPhone/Release/mtouch-cache/1-Link/Firebase.Core.dll
+ObjectiveCClass=OBJC_CLASS_$_FIROptions
+	/Users/yada/Documents/dev/ChillDrill/ChillDrill.iOS/obj/iPhone/Release/mtouch-cache/1-Link/Firebase.Core.dll
+Field=FIRInstallationIDDidChangeNotification
+	/Users/yada/Documents/dev/ChillDrill/ChillDrill.iOS/obj/iPhone/Release/mtouch-cache/1-Link/Firebase.Installations.dll
+Field=kFIRInstallationIDDidChangeNotificationAppNameKey
+	/Users/yada/Documents/dev/ChillDrill/ChillDrill.iOS/obj/iPhone/Release/mtouch-cache/1-Link/Firebase.Installations.dll
+Field=FirebaseInstallationsVersionString
+	/Users/yada/Documents/dev/ChillDrill/ChillDrill.iOS/obj/iPhone/Release/mtouch-cache/1-Link/Firebase.Installations.dll
+ObjectiveCClass=OBJC_CLASS_$_FIRInstallations
+	/Users/yada/Documents/dev/ChillDrill/ChillDrill.iOS/obj/iPhone/Release/mtouch-cache/1-Link/Firebase.Installations.dll
+ObjectiveCClass=OBJC_CLASS_$_FIRInstallationsAuthTokenResult
+	/Users/yada/Documents/dev/ChillDrill/ChillDrill.iOS/obj/iPhone/Release/mtouch-cache/1-Link/Firebase.Installations.dll
